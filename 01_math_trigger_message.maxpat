@@ -47,7 +47,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 215.0, 406.0, 158.0, 26.0 ],
-					"presentation_linecount" : 2,
 					"text" : "Messaggio come output",
 					"textjustification" : 1
 				}
@@ -60,8 +59,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 115.0, 408.0, 91.0, 22.0 ],
-					"text" : "0.013696"
+					"patching_rect" : [ 115.0, 408.0, 91.0, 22.0 ]
 				}
 
 			}
@@ -77,7 +75,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 391.0, 109.0, 100.0, 39.0 ],
-					"presentation_linecount" : 2,
 					"text" : "Oggetto inizializzato",
 					"textjustification" : 1
 				}
@@ -146,7 +143,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 13.0, 147.0, 100.0, 39.0 ],
-					"presentation_linecount" : 2,
 					"text" : "Oggetto non inizializzato",
 					"textjustification" : 1
 				}
@@ -160,7 +156,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 13.0, 11.0, 593.0, 42.0 ],
+					"patching_rect" : [ 13.0, 11.0, 595.0, 42.0 ],
 					"text" : "Esempi di messaggistica, inizializzazione di oggetti, ordine di esecuzione secondo la disposizione spaziale e matematica di base"
 				}
 
